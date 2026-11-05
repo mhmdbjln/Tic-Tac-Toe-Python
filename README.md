@@ -13,7 +13,7 @@ A simple two-player Tic-Tac-Toe game implemented in Python for the terminal.
 ## Run
 
 ```bash
-python "tic tac toe .py"
+python tic_tac_toe.py
 ```
 
 ## Platform note
